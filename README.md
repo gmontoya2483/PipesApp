@@ -7,7 +7,7 @@ Esta aplicación muestra el uso de los [pipes](https://angular.io/api?query=pipe
 
 ## Temas Cubiertos en esta aplicación:
 * Modularización de la aplicación
-* PrimeNg - [getbootstrap](https://www.primefaces.org/primeng/)
+* PrimeNg - [PrimeNG](https://www.primefaces.org/primeng/)
 * Módulo especializado para módulos de PrimeNG
 * Pipes de Angula
   * Uppercase
@@ -24,6 +24,9 @@ Esta aplicación muestra el uso de los [pipes](https://angular.io/api?query=pipe
   * Async
 * Rutas
 * RouterLink y RouterLinkActive
+* Pipes personalizados
+* Argumentos hacia los pipes personalizados
+* PrimeNg tables (basic y Sorteable)
 
 
 ## Development server
